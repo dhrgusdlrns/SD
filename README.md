@@ -1,4 +1,5 @@
-# SD
+SD
+이 페이지는에는 Stable Diffusion을 비롯한 AI 관련 툴들 사용 관련해서 이것저것 많이 모읍니다.
 
 
 LORA
@@ -16,9 +17,9 @@ LORA
 1. (같음) teemo, bad quality <lora:teemo:1> = <lora:teemo:1> teemo, bad quality 
 2. (다름) teemo, bad quality <lora:teemo:1> != teemo, bad quality, <lora:teemo:1>
 
+Automatic1111 WEB UI
+
+확장 프로그램 업데이트
+Check for updates를 누르면 업데이트 됩니다. 설치한 확장 프로그램이 많거나 용량이 큰 경우 오류가 종종 발생하나 계속 누르다보면 언젠가는 모든 확장프로그램의 업데이트가 완료됩니다.
 
 
-
-
-이 페이지는에는 
-이것저것 많이 모읍니다.
