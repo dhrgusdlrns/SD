@@ -4,6 +4,19 @@ SD
 
 LORA
 
+LORA 사용 관련된 코랩 링크
+
+1.kohya-LoRA-dreambooth
+https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb#scrollTo=FKBrTDPrcNjP
+
+2. 
+
+3. 
+
+4. 
+
+
+
 파일 관리
 1. 파일의 이름은 영향을 결과물에 영향을 미치지 않기 때문에, 다음과 같이 파일의 정보를 포함하고 있는 형태로 파일의 이름을 설정하는 것이 좋습니다. 
 예시) (대상)_(토큰 키워드)_(기타 정보).safetensors -> 티모_Teemo_01.safetensors
