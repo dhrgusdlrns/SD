@@ -1,5 +1,50 @@
-SD
-이 페이지는에는 Stable Diffusion을 비롯한 AI 관련 툴들 사용 관련해서 이것저것 많이 모읍니다.
+이 페이지는에는 Stable Diffusion을 비롯한 AI 그림 생성 툴의 사용법과 관련한 것들을 방향성없이 아무 생각없이 적고 있습니다.
+
+존나 쉬운 말과 최소한의 문장으로 이해하기 쉽게 정리하는 것을 목표로 삼고 있습니다.
+그러나 다루는 내용 자체는 새로 나오는 기술과 그 사용법과 활용법을 다루고 있기에 기초적인 내용은 알아서 습득하시기 바랍니다.
+
+SD (Stable Diffusion)
+
+AI가 그림 만들어주는 기술입니다. 
+이에 대해 이런저런 전문적이고 다양한 추가설명을 많이 할 수 있지만, 그건 알아서 찾으시고, 앞으로 여기에서 모든 기술이나 개념에 대해서는 딱 위와 같은 정도로만 설명할 겁니다. 
+
+
+WEB UI - SD 기술을 사람들이 편리하게 쓸 수 있게 해주는 프로그램. 현재 기준으로 대표적인 개발자는 Automatic1111
+
+로컬 설치
+1. SD는 컴퓨터 사양, 특히 그래픽카드의 사양을 엄청나게 많이 탑니다. 
+장점: 
+
+코랩 사용
+
+
+
+
+기본 사용법은 알아서 
+
+Text to Image
+여기에 내용을 적으면 AI가 열심히 그림을 만들어 줍니다.
+
+Prompt
+
+
+
+테크닉
+
+
+SD의 근본이 되는 기술은 사람이 글을 쓰면, 그에 맞는 그림을 그려주는 것이 기본이지만 매우 다양하게 활용할 수 있습니다.
+
+
+
+
+
+
+
+Extentions (확장기능)
+
+
+
+
 
 
 LORA
@@ -7,6 +52,7 @@ LORA
 LORA 사용 관련된 코랩 링크
 
 1.kohya-LoRA-dreambooth
+
 https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb#scrollTo=FKBrTDPrcNjP
 
 2. 
