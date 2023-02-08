@@ -8,12 +8,14 @@ SD (Stable Diffusion)
 AI가 그림 만들어주는 기술입니다. 
 이에 대해 이런저런 전문적이고 다양한 추가설명을 많이 할 수 있지만, 그건 알아서 찾으시고, 메인페이지에는 나오는 모든 기술이나 개념에 대해서는 딱 위와 같은 정도로 간단히 설명하겠습니다.
 
-[기초](https://github.com/dhrgusdlrns/SD/wiki/%EA%B8%B0%EC%B4%88)
+[기초 - 링크](https://github.com/dhrgusdlrns/SD/wiki/%EA%B8%B0%EC%B4%88)
 
 AI 기술, Stable diffusion의 사용과 그 기초에 담고있는 페이지, 유용한 링크와 다른 사람들이 쓴 유용한 글들의 링크가 존재.
 
 
-[설치](https://github.com/dhrgusdlrns/SD/wiki/%EC%84%A4%EC%B9%98):
+[설치 - 링크](https://github.com/dhrgusdlrns/SD/wiki/%EC%84%A4%EC%B9%98)
+
+설치와 관련된 다양한 내용들, 설치법에 관한 오류 및 다양한 설치법에 대해서 설명하고 있다.
 
 
 WEB UI - SD 기술을 사람들이 편리하게 쓸 수 있게 해주는 프로그램. 현재 기준으로 대표적인 개발자는 Automatic1111
